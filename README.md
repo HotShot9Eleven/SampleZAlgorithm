@@ -9,8 +9,8 @@ In order to facilitate better gift-giving on the Zappos website, the Software En
 ###Solution 
 ---
 There are two paramters that are involved here
-1. Number of items to be purchased
-2. Total cost of the items to be purchased
+-  Number of items to be purchased
+-  Total cost of the items to be purchased
 
 The following recursive solution will create a list of price combination that statisfy the above two condition.
 
